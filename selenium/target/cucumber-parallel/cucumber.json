@@ -1,0 +1,68 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 17482466122,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Driver.beforeMethod(Scenario)"
+            }
+          }
+        ],
+        "line": 2,
+        "name": "Launch Home page",
+        "description": "",
+        "id": "launch-home-page;launch-home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 1774007116,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Driver.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3623656215,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "I Launch home page",
+            "match": {
+              "location": "Home.launchHomePage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 417862736,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I should see home page logo",
+            "match": {
+              "location": "Home.seeHomePageLogo()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Launch Home page",
+    "description": "",
+    "id": "launch-home-page",
+    "keyword": "Feature",
+    "uri": "sample.feature"
+  }
+]

@@ -1,0 +1,35 @@
+2018-11-25 01:28:14 INFO  Driver:65 - launching browser CHROME
+2018-11-25 20:10:35 INFO  Driver:59 - launching browser CHROME
+2018-11-25 20:15:58 INFO  Driver:59 - launching browser CHROME
+2018-11-25 20:16:26 INFO  Driver:70 - The scenario: Launch Home pageand the status is failed
+2018-11-25 20:18:47 INFO  Driver:59 - launching browser CHROME
+2018-11-25 20:19:14 INFO  Driver:70 - The scenario: Launch Home pageis completed with the status is failed
+2018-11-25 20:48:17 INFO  Driver:59 - launching browser CHROME
+2018-11-25 20:48:45 INFO  Driver:70 - The scenario: Launch Home page is completed with the status passed
+2018-11-25 22:24:35 INFO  Driver:48 - Starting the scenario: Launch Home page
+2018-11-25 22:24:35 INFO  Driver:59 - launching browser CHROME
+2018-11-25 22:24:56 INFO  Driver:69 - The scenario: Launch Home page is completed with the status passed
+2018-11-25 22:34:24 INFO  Driver:48 - Starting the scenario: Launch Home page
+2018-11-25 22:34:24 INFO  Driver:59 - launching browser CHROME
+2018-11-25 22:34:44 INFO  Driver:69 - The scenario: Launch Home page is completed with the status passed
+2018-11-25 22:36:07 INFO  Driver:48 - Starting the scenario: Launch Home page
+2018-11-25 22:36:07 INFO  Driver:59 - launching browser CHROME
+2018-11-25 22:36:22 INFO  Driver:69 - The scenario: Launch Home page is completed with the status passed
+2018-11-25 22:38:00 INFO  Driver:48 - Starting the scenario: Launch Home page
+2018-11-25 22:38:00 INFO  Driver:59 - launching browser CHROME
+2018-11-25 22:38:14 INFO  Driver:69 - The scenario: Launch Home page is completed with the status passed
+2018-11-25 22:42:48 INFO  Driver:48 - Starting the scenario: Launch Home page
+2018-11-25 22:42:48 INFO  Driver:59 - launching browser CHROME
+2018-11-25 22:43:03 INFO  Driver:69 - The scenario: Launch Home page is completed with the status passed
+2018-11-25 22:43:58 INFO  Driver:48 - Starting the scenario: Launch Home page
+2018-11-25 22:43:58 INFO  Driver:59 - launching browser CHROME
+2018-11-25 22:44:16 INFO  Driver:69 - The scenario: Launch Home page is completed with the status passed
+2018-11-25 23:00:29 INFO  Driver:47 - Starting the scenario: Launch Home page
+2018-11-25 23:00:29 INFO  Driver:58 - launching browser CHROME
+2018-11-25 23:00:47 INFO  Driver:68 - The scenario: Launch Home page is completed with the status passed
+2018-11-25 23:04:18 INFO  Driver:47 - Starting the scenario: Launch Home page
+2018-11-25 23:04:18 INFO  Driver:58 - launching browser CHROME
+2018-11-25 23:04:36 INFO  Driver:68 - The scenario: Launch Home page is completed with the status passed
+2018-11-26 21:23:19 INFO  Driver:47 - Starting the scenario: Launch Home page
+2018-11-26 21:23:19 INFO  Driver:58 - launching browser CHROME
+2018-11-26 21:23:40 INFO  Driver:68 - The scenario: Launch Home page is completed with the status passed
